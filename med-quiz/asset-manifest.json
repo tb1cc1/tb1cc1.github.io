@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/med-quiz/static/css/main.b170824d.chunk.css",
+    "main.js": "/med-quiz/static/js/main.357be835.chunk.js",
+    "main.js.map": "/med-quiz/static/js/main.357be835.chunk.js.map",
+    "runtime-main.js": "/med-quiz/static/js/runtime-main.cef648b5.js",
+    "runtime-main.js.map": "/med-quiz/static/js/runtime-main.cef648b5.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/med-quiz/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.a41c1618.chunk.js": "/med-quiz/static/js/2.a41c1618.chunk.js",
+    "static/js/2.a41c1618.chunk.js.map": "/med-quiz/static/js/2.a41c1618.chunk.js.map",
+    "index.html": "/med-quiz/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/med-quiz/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.b170824d.chunk.css.map": "/med-quiz/static/css/main.b170824d.chunk.css.map",
+    "static/js/2.a41c1618.chunk.js.LICENSE.txt": "/med-quiz/static/js/2.a41c1618.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cef648b5.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.a41c1618.chunk.js",
+    "static/css/main.b170824d.chunk.css",
+    "static/js/main.357be835.chunk.js"
+  ]
+}
